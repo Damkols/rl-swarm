@@ -1,4 +1,5 @@
 #!/bin/bash
+export PYTORCH_MPS_HIGH_WATERMARK_RATIO=0.0
 
 #General args
 ROOT=$PWD

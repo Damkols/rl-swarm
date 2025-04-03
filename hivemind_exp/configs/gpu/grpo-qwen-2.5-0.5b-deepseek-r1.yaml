@@ -1,9 +1,9 @@
 # Model arguments
 model_name_or_path: Gensyn/Qwen2.5-0.5B-Instruct
 model_revision: main
-torch_dtype: bfloat16
+torch_dtype: float16
 attn_implementation: flash_attention_2
-bf16: true
+bf16: false
 tf32: true
 output_dir: runs/gsm8k/multinode/Qwen2.5-0.5B-Instruct-Gensyn-Swarm
 
@@ -41,6 +41,8 @@ report_to:
 save_strategy: "steps"
 save_steps: 25
 seed: 42
+
+max_memory_MB: 24000 # Limit memory usage to 24GB
 
 # Hugging Face Hub
 # push_to_hub: false
