@@ -1,0 +1,209 @@
+--------------------
+Prompt:
+The question we were given is: Layla is feeding her pet fish. She has two Goldfish which each get one teaspoon of fish food. Her 3 Swordtails each get 2 teaspoons of food. Her 8 Guppies each eat half a teaspoon of food. How much food does she have to give to her fish in total?  
+
+The following answers to this question were suggested: 
+<student>Student #0</student> said 
+<think>
+2
+</think>
+<answer>
+12
+</answer>
+
+
+
+<student>Student #1</student> said 
+<think>
+1 (Goldfish) + 1 (Goldfish) = 2
+
+2 (Swordtails) + (8) (Guppies) = 10
+
+Total food required: 2 + 10 = 12 teaspoons
+
+</think>
+<answer>
+12
+</answer>
+
+
+<student>Student #2</student> said 
+<think>
+Layla has 2 Goldfish and 8 Guppies.
+</think>
+<answer>
+12
+</answer>
+
+
+<student>Student #3</student> said 
+<think>
+2 * 1 + 3 * 2 + 8 * 0.5
+</think>
+<answer>
+12
+</answer>
+
+
+
+<student>Student #4</student> said 
+<think>
+12
+</think>
+<answer>
+12
+</answer>
+
+
+<student>Student #5</student> said 
+<think>
+Goldfish = 2 teaspoons
+Swordtails = 3 × 2 = 6 teaspoons
+Guppies = 8 × 0.5 = 4 teaspoons
+Total food = 2 + 6 + 4 = 12 teaspoons
+</think>
+<answer>
+12
+</answer>
+
+
+
+<student>Student #6</student> said 
+<think>2</think>
+<answer>12</answer>
+
+
+<student>Student #7</student> said 
+<think>
+Layla requires 1 teaspoon of food for each Goldfish.
+2 Goldfish * 1 teaspoon = 2 teaspoons
+Layla also needs 2 teaspoons of food for each Swordtail.
+3 Swordtails * 2 teaspoons = 6 teaspoons
+Lastly, 8 Guppies each need 0.5 teaspoon of food.
+8 Guppies * 0.5 teaspoon = 4 teaspoons
+Total food required = 2 teaspoons + 6 teaspoons + 4 teaspoons = 12 teaspoons
+</think>
+<answer>
+12
+</answer>
+
+
+
+<student>Student #8</student> said 
+<think>
+1
+</think>
+<answer>
+12
+</answer>
+
+
+<student>Student #9</student> said 
+<think>
+2 Goldfish × 1 teaspoon = 2 teaspoon
+3 Swordtails × 2 teaspoons = 6 teaspoons
+8 Guppies × 0.5 teaspoon = 4 teaspoon
+Total = 2 + 6 + 4 = 12 tea
+</think>
+<answer>
+12
+</answer>
+
+
+<student>Student #10</student> said 
+<think>
+1 × 2 + 3 × 2 + 8 × 0.5
+</think>
+<answer>
+12
+</answer>
+
+
+
+<student>Student #11</student> said 
+<think>
+2 * 1 + 3 * 2 + 8 * 0.5
+</think>
+<answer>
+12
+</answer>
+
+
+<student>Student #12</student> said 
+<think>
+She has four types of food: Goldfish, Swordtails, Guppies, and Fish.
+
+- Goldfish: (2 * 1) teaspoons = 2 teaspoons
+- Swordtails: (3 * 2) teaspoons = 6 teaspoons
+- Guppies: (8 * 0.5) teaspoons = 4 teaspoons
+
+Total food: 2 + 6 + 4 = 12 teaspoons
+</think>
+<answer>
+12
+</answer>
+The reasoning for the final answer is the correct calculation of the total amount of food needed, which is 12 teaspoons.
+
+
+<student>Student #13</student> said 
+<think>
+1
+</think>
+<answer>
+12
+</answer>
+
+
+<student>Student #14</student> said 
+<think>
+1
+</think>
+<answer>
+12
+</answer>
+
+
+
+
+Response:
+All of the students in this group have the same reasoning:
+
+- Each type of food has a specific number of teaspoons (2 for Goldfish, 3 for Swordtails, 8 for Guppies, and 0.5 for Fish).
+- The calculation of the total amount of food is straightforward: sum these amounts.
+
+Thus, when each student gives a correct solution:
+
+- Student #11: 2 + 6 + 4 = 12 teaspoons
+- Student #12: 2 + 6 + 4 = 12 teaspoons
+- Student #13: 2 + 3 + 8 = 13 teaspoons
+- Student #14: 2 + 3 + 8 = 13 teaspoons
+
+All the students get the same final answer of 12 teaspoons.
+
+The reasoning is clear and all the given student responses are correct. 
+
+Final answer: 12 teaspoons.
+
+Valid IDs:
+['Student #0', 'Student #1', 'Student #2', 'Student #3', 'Student #4', 'Student #5', 'Student #6', 'Student #7', 'Student #8', 'Student #9', 'Student #10', 'Student #11', 'Student #12', 'Student #13', 'Student #14']
+
+Extracted:
+All of the students in this group have the same reasoning:
+
+- Each type of food has a specific number of teaspoons (2 for Goldfish, 3 for Swordtails, 8 for Guppies, and 0.5 for Fish).
+- The calculation of the total amount of food is straightforward: sum these amounts.
+
+Thus, when each student gives a correct solution:
+
+- Student #11: 2 + 6 + 4 = 12 teaspoons
+- Student #12: 2 + 6 + 4 = 12 teaspoons
+- Student #13: 2 + 3 + 8 = 13 teaspoons
+- Student #14: 2 + 3 + 8 = 13 teaspoons
+
+All the students get the same final answer of 12 teaspoons.
+
+The reasoning is clear and all the given student responses are correct. 
+
+Final answer: 12 teaspoons.
+
+Got reward? False
